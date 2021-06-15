@@ -1,0 +1,33 @@
+body {
+    background-image: url('imagens/fundo.png');
+    font-family: sans-serif;
+}
+#nav {
+    background-color: rgb(230, 230, 205);
+    padding: 30px;
+    width: 840px;
+    text-align: center;
+}
+
+#content {
+    background: white;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    width: 885px;
+}
+
+#content h3 {
+    color: rgb(119, 119, 104);
+}
+
+a {
+    text-decoration: none;
+    padding: 20px;
+    color: rgb(74, 74, 139);
+    font-weight: bold;
+}
+
+#end {
+    margin-left: 330px;
+}
